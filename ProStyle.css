@@ -1,0 +1,163 @@
+.head2{
+    /* width: 100%; */
+    background-color: #4E4FEB;
+    /* height: 500px ; */
+    margin: 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.head{
+    font-family: 'Roboto Condensed', cursive;
+    font-size: 54px;
+    color: white;
+    /* padding-top: 200px;
+    padding-right: 600px;
+    margin-bottom: 0%; */
+    letter-spacing: 2px;
+    
+}
+
+.head3{
+    width: 100%;
+    margin-top: -10px;
+    
+}
+
+.body{
+    width: 100%;
+    background-color: white;
+}
+
+.ppic{
+    border-radius: 20px;
+   
+    height: 350px;
+    /* margin-left: 850px;  
+    margin-top: -250px; */
+    transition: 0.3s;
+}
+
+.ppic:hover{
+    height: 360px;
+    
+}
+
+.sub{
+    font-family: sans-serif;
+    color: white;
+    /* text-align: left;
+    margin-left: 172px; 
+    width: 300px; */
+    transition: 0.3s ease;
+    margin-top: 5px;
+}
+
+.sub2{
+    padding-left: 10px;
+    font-family: 'Roboto Condensed', cursive;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    transition: 0.3s ease;
+    width: 250px;
+    margin-top: 5px;
+    
+}
+
+#an{
+    text-decoration: none;
+}
+
+.sub2:hover{
+    width:266px;
+    
+
+}
+
+.bh{
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 20px;
+    background-color: #080202;
+}
+
+.bh2{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    
+    /* font-size: 42px; */
+    text-decoration: underline;
+}
+.mycontainer{
+    display: flex;
+    gap: 30px;
+}
+.block {
+    width: 400px;
+    background-color: #eaeaea;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .block1 {
+    transform: perspective(800px) ;
+  }
+  
+  .block2 {
+    transform: perspective(800px);
+  }
+  
+  .block3 {
+    transform: perspective(800px) ;
+  }
+
+  .dp{
+    width: 350px;
+    height: 300px;
+    transition: 0.3s;
+    border-radius: 12px;
+    
+  }
+
+.dp:hover{
+    width: 370px;
+    height: 320px;
+}
+
+.rd{
+    margin-left: 180px;
+    display: inline-block;
+    padding: 10px;
+    background-color: #eaeaea;
+    color: blue;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+
+.rd:hover{
+    padding-left: 30px;
+}
+
+#rd3{
+    margin-top: 115px;
+}
+
+#rd2{
+    margin-top: 20px;
+}
+
+.desc{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.ti{
+    color: #212A3E;
+    font-family: 'Roboto Condensed', cursive;
+    text-decoration: underline;
+    
+}
